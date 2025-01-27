@@ -1,0 +1,36 @@
+Design Choices for the Landing Page
+
+1. HTML Structure:
+   - The page is divided into three main sections: a header, a products section, and a footer. This structure ensures a clear and intuitive navigation flow.
+   - The use of the `<section>` tag for organizing content improves semantic value and accessibility.
+
+2. Header:
+   - A responsive navigation menu was implemented using Bootstrap. It features links to key sections of the page, enabling quick navigation.
+   - The menu is mobile-friendly with a collapsible feature that adapts to smaller screens.
+
+3. Hero Section:
+   - A visually engaging hero section was created using a background image with overlay text and a call-to-action button. This immediately grabs the visitor's attention upon landing.
+
+4. Product Section:
+   - Product cards were designed uniformly with an image, title, description, and button, ensuring a consistent and appealing presentation.
+   - Cards are styled with shadows and rounded corners to give them a modern and professional look.
+
+5. Contact Form:
+   - A simple, centered contact form allows visitors to easily get in touch with the shop. The clean design and centered layout enhance user experience.
+
+6. Footer:
+   - The footer includes copyright text and social media icons styled with Font Awesome, adding a modern visual touch and enabling easy access to social platforms.
+
+7. Custom CSS Styling:
+   - Custom styles were added to enhance the overall look of the page, focusing on the hero section, product cards, and typography.
+   - Proper spacing and typography ensure a pleasant reading experience.
+
+8. Responsive Design:
+   - Media queries were used to adjust font sizes and margins, ensuring an optimal layout for smaller screens.
+   - Bootstrap's flexible grid system makes the product section and form responsive across all device sizes.
+
+9. Library Integration:
+   - Bootstrap was selected for its simplicity and pre-built components, speeding up the development process.
+   - Font Awesome was used for social media icons, providing a quick and elegant solution.
+
+These design decisions were made to provide an intuitive, visually appealing, and fully responsive user experience.
